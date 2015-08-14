@@ -1,21 +1,24 @@
 import datetime
-
 scheduling = True
 
-date_entry = input('Enter show start date in YYYY-MM-DD format')
-year, month, day = map(int, date_entry.split('-'))
-start_date = datetime.date(year,month,day)
+def run_of_show():
+    date_entry = input('Enter show start date in YYYY-MM-DD format: ')
+    year, month, day = map(int, date_entry.split('-'))
+    start_date = datetime.date(year,month,day)
 
-time_entry = input('Enter show start time in hh:mm:ss format: ')
-hour, minute, second = map(int, time_entry.split(':'))
-start_time = datetime.time(hour,minute,second)
+    time_entry = input('Enter show start time in hh:mm:ss format: ')
+    hour, minute, second = map(int, time_entry.split(':'))
+    start_time = datetime.time(hour,minute,second)
 
-show_length_entry = input('Enter length of show in days: ')
-show_length = int(show_length_entry)
+    show_length_entry = input('Enter length of show in days: ')
+    show_length = int(show_length_entry)
 
-end_date = start_date + datetime.timedelta(days=show_length)
+    end_date = start_date + datetime.timedelta(days=show_length)
 
-media_schedule=[]
+determine_run_of_show = input('Would you like to determine the run of show? Y/N: ')
+determine_run_of_show = str(determine_run_of_show)
+if determine_run_of_show == 'Y':
+    run_of_show()
 
 while scheduling:
     media_type = input('What type of media would you like to schedule? (VOD, live, episodic, playlist. Type stop to print): ')
@@ -31,8 +34,6 @@ while scheduling:
         VOD_date_entry = input('Enter show start date in YYYY-MM-DD format: ')
         VOD_year, VOD_month, VOD_day = map(int, VOD_date_entry.split('-'))
         VOD_start_date = datetime.date(VOD_year,VOD_month,VOD_day)
-        new_schedule_item = [VOD_name, VOD_duration, VOD_start_date]
-        media_schedule.append(new_schedule_item)
         continue
 
     elif media_type == "live":
@@ -45,12 +46,9 @@ while scheduling:
         continue
 
     elif media_type == "stop":
-        for item in media_schedule:
-             print ("VOD info- name:", VOD_name[0], "duration:", VOD_duration[1], "start date:", VOD_start_date[2])
+        print ("VOD info- name:", VOD_name, "duration:", VOD_duration, "start date:", VOD_start_date)
 
         scheduling = False
-
-
 
 print ("Show start: ", start_date, start_time)
 print ("Show end: ", end_date)
