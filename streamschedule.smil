@@ -1,0 +1,767 @@
+
+    
+    <!-- MONDAY February 9 -->
+    
+    <playlist name="IFNF-Platform-2" playOnStream="acretv" repeat="true" scheduled="2015-03-30 05:00:00">
+      <video src="mp4:doda-institute-platform2.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (twice) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-30 05:09:37">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+	<playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-30 05:55:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-30 06:40:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-30 08:10:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-30 09:40:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-30 10:25:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-30 11:10:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-30 12:40:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- IFNF Pressure Systems -->
+    
+    <playlist name="IFNF-Pressure" playOnStream="acretv" repeat="true" scheduled="2015-03-30 14:10:00">
+      <video src="mp4:doda-institute-pressure.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (twice) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-30 15:00:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-30 15:45:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-30 16:30:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-30 18:00:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-30 19:30:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-30 20:15:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-30 21:00:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-30 22:30:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (once) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-31 00:00:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 00:45:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-31 01:30:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-31 03:00:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- TUESDAY February 3 -->
+    
+    <playlist name="IFNF-Platform-2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 05:00:00">
+      <video src="mp4:doda-institute-platform2.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (twice) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-31 05:09:37">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 05:55:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-31 06:40:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-31 08:10:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-31 09:40:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 10:25:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-31 11:10:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-31 12:40:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- IFNF Pressure Systems -->
+    
+    <playlist name="IFNF-Pressure" playOnStream="acretv" repeat="true" scheduled="2015-03-31 14:10:00">
+      <video src="mp4:doda-institute-pressure.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (twice) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-31 15:00:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 15:45:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-31 16:30:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-31 18:00:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      <video src="mp4:
+	  doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-03-31 19:30:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-03-31 20:15:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-03-31 21:00:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-03-31 22:30:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+    <!-- Shorts Program Loop (once) -->
+    
+    <playlist name="shorts1" playOnStream="acretv" repeat="true" scheduled="2015-04-01 00:00:00">
+      <video src="mp4:doda-davidovich-sidewalk.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-moderato.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-power.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-contacta.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-communicating.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-isolation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-extraterrestrial.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-decipherment.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-creating.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts2" playOnStream="acretv" repeat="true" scheduled="2015-04-01 00:45:00">
+      <video src="mp4:doda-hamilton-love.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-platform5.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-rousing.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-blue.mp4" start="0" length="-1" />
+      <video src="mp4:doda-kapon-synopsis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-knight-mirror.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bioterrorism.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-crisis.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-hasty.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-evacuation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-maintaining.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts3" playOnStream="acretv" repeat="true" scheduled="2015-04-01 01:30:00">
+      <video src="mp4:doda-newton-ec1.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-preparation.mp4" start="0" length="-1" />
+      <video src="mp4:doda-burke-dress.mp4" start="0" length="-1" />
+      <video src="mp4:doda-castle-screensaver.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mothergirl-one.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-positive.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-physical.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-preserve.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-escape.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-soccer.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+	
+    <playlist name="shorts4" playOnStream="acretv" repeat="true" scheduled="2015-04-01 03:00:00">
+      <video src="mp4:doda-newton-ec3.mp4" start="0" length="-1" />
+      <video src="mp4:doda-politzer-from.mp4" start="0" length="-1" />
+      <video src="mp4:doda-davidovich-qube.mp4" start="0" length="-1" />
+      <video src="mp4:doda-hamilton-love2.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-bribe.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-estate.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-holidays.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-snow.mp4" start="0" length="-1" />
+      <video src="mp4:doda-mueller-water.mp4" start="0" length="-1" />
+      <video src="mp4:doda-newton-ec4.mp4" start="0" length="-1" />
+      <video src="mp4:doda-institute-you.mp4" start="0" length="-1" />
+      <video src="mp4:doda-smart-lesson.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+      
+      <video src="mp4:doda-interstitial.mp4" start="0" length="-1" />
+    </playlist>
+    
+ 
+    
+  </body>
+</smil>
