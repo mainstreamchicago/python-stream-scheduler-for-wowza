@@ -70,7 +70,9 @@ def set_scheduling(media_type):
         Live_start_time = datetime.time(Live_starttime_hour, Live_starttime_minute, Live_starttime_second)
         live_Details.append(Live_start_time)
         #live_Scheduled[Live_start_date] = live_Details
-        Scheduled[media_start_date] = live_Details
+        media_start = datetime.datetime(Live_year, Live_month, Live_day, Live_starttime_hour, Live_starttime_minute, Live_starttime_second)
+        media_start = datetime.datetime.strftime(media_start, "%Y-%m-%d %H:%M:%S")
+        Scheduled[media_start] = live_Details
         #continue
         pass
 
@@ -116,5 +118,5 @@ print ("Show start: ", start_date, start_time)
 print ("Show end: ", end_date)
 #print (VODS_Scheduled)
 #print (live_Scheduled)
-print (Scheduled)
+print (sorted(lambda,key=media_start))
 #print('All Finished!')
