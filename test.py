@@ -14,6 +14,7 @@ def run_of_show():
     show_length = int(show_length_entry)
 
     end_date = start_date + datetime.timedelta(days=show_length)
+    return [start_date, start_time, end_date]
 
 determine_run_of_show = input('Would you like to determine the run of show? Y/N: ')
 determine_run_of_show = str(determine_run_of_show)
@@ -47,8 +48,12 @@ while scheduling:
 
     elif media_type == "stop":
         print ("VOD info- name:", VOD_name, "duration:", VOD_duration, "start date:", VOD_start_date)
-
         scheduling = False
+
+times = run_of_show()
+start_date = times[0]
+start_time = times[1]
+end_date = times[2]
 
 print ("Show start: ", start_date, start_time)
 print ("Show end: ", end_date)
