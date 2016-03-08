@@ -1,4 +1,9 @@
-
+<smil>
+  <head></head>
+  <body>
+    <!-- SCHEDULE IS ON GMT. ADD 5 HOURS TO SCHEDULED TIME. For example, 12am becomes 5am. -->
+    <stream name="acretv"></stream>
+    <stream name="acretvlive"></stream>
     
     <!-- MONDAY February 9 -->
     
